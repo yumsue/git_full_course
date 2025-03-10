@@ -3,4 +3,4 @@ function greet() {
 }
 
 greet();
-great();
+
